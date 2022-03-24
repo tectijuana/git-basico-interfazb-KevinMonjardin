@@ -5,5 +5,4 @@
 
 ![cooltext407197637933310](https://user-images.githubusercontent.com/95386762/159860598-de3cd38f-00a8-4a1c-8faf-3d3ca964a19b.png)
 
-![Cool Text - Esta es una recopilacin de mis programas hechos en cSolo sub los 407197581561310](https://user-images.githubusercontent.com/95386762/159860428-be8c4f9d-bce0-4c00-8e25-5292530db2a5.png)
-
+![Cool Text - Recopilacin de programas hechos en cSolo se subi el archivo cpp 407197791248156](https://user-images.githubusercontent.com/95386762/159861065-9334784d-bbc8-4cde-a012-cded6af1d949.png)
